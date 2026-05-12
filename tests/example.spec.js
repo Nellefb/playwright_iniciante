@@ -7,9 +7,6 @@ test.beforeEach(async ({ page }) => {
 })
 
 test('Testando scroll', async ({ page }) => {
- 
-  
-  
   // const button = await page.getByRole('button', { name: 'Send Mail' })
   // await button.scrollIntoViewIfNeeded()
   // await button.click()
